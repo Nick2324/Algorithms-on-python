@@ -187,7 +187,7 @@ def guardando_resupesta(respuesta):
 
 
 def main():
-    cargar_laberinto()
+    #cargar_laberinto()
     #laberinto = []
     #inicializar_laberinto(laberinto, 5)
     #imprimir_laberinto(laberinto)
